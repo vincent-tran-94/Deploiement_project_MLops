@@ -1,4 +1,3 @@
-```markdown
 # Analyse de Sentiment des Tweets sur les Jeux Vidéo
 
 ## Objectif du Projet
