@@ -41,16 +41,9 @@ Cela démarrera une interface utilisateur MLFlow à l'adresse `http://127.0.0.1:
 ## Structure du Projet
 
 - `data/` : Contient le jeux de données utilisés pour l'analyse.
-- `Mlflow_experiments.ipunb` : Contient le notebooks Jupyter pour l'exploration des données et l'entraînement des modèles.
+- `Mlflow_experiments.ipynb` : Contient le notebooks Jupyter pour l'exploration des données et l'entraînement des modèles.
 - `requirements.txt` : Liste des librairies Python nécessaires pour le projet.
 
 ## Licence
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
-## Contact
-
-Pour toute question ou suggestion, veuillez contacter [votre nom] à [votre email].
-```
-
-Ce README fournit une vue d'ensemble claire du projet, des étapes à suivre pour installer les dépendances et lancer MLFlow, ainsi que des instructions pour contribuer au projet.
