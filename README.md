@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ## Lancement de MLFlow
 
-Pour lancer MLFlow et suivre les expériences, utilisez la commande suivante :
+Pour lancer MLFlow et suivre les expériences, utilisez la commande suivante:
 
 ```bash
 mlflow server --host 127.0.0.1 --port 8080 
