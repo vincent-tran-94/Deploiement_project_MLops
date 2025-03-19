@@ -4,3 +4,4 @@ mlartifacts/*
 !mlartifacts/.gitignore
 mlruns/*
 !mlruns/.gitignore
+.env/
