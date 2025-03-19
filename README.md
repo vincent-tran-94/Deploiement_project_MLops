@@ -41,6 +41,7 @@ Cela démarrera une interface utilisateur MLFlow à l'adresse `http://127.0.0.1:
 ## Structure du Projet
 
 - `data/` : Contient le jeux de données utilisés pour l'analyse.
+- `app.py` : Contient l'application pour déployer directement sur AWS
 - `Mlflow_experiments.ipynb` : Contient le notebooks Jupyter pour l'exploration des données et l'entraînement des modèles.
 - `requirements.txt` : Liste des librairies Python nécessaires pour le projet.
 
