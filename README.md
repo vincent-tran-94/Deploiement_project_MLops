@@ -28,20 +28,9 @@ Pour installer les librairies nécessaires, exécutez la commande suivante :
 pip install -r requirements.txt
 ```
 
-## Lancement de MLFlow
-
-Pour lancer MLFlow et suivre les expériences, utilisez la commande suivante:
-
-```bash
-mlflow server --host 127.0.0.1 --port 8080 
-```
-
-Cela démarrera une interface utilisateur MLFlow à l'adresse `http://127.0.0.1:8080` où vous pourrez visualiser et comparer les différentes expériences.
-
 ## Structure du Projet
 
 - `data/` : Contient le jeux de données utilisés pour l'analyse.
-- `Mlflow_experiments.ipynb` : Contient le notebooks Jupyter pour l'exploration des données et l'entraînement des modèles.
 - `requirements.txt` : Liste des librairies Python nécessaires pour le projet.
 
 ## Licence
